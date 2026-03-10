@@ -1,0 +1,16 @@
+old_url,new_url,notes
+/,/ ,Keep homepage canonical if final redesign replaces current home
+/about.html,/about/,301 redirect recommended if path changes
+/our-mission.html,/mission/,301 redirect recommended if path changes
+/employers.html,/hire-staff/,301 redirect recommended if path changes
+/jobs.html,/jobs/,301 redirect recommended if path changes
+/contact.html,/contact/,301 redirect recommended if path changes
+/newsletter.html,/resources/newsletter/,301 redirect recommended if path changes
+/press.html,/press/,301 redirect recommended if path changes
+/global.html,/locations/,301 redirect recommended if path changes
+/locations.html,/locations/,redirect already implied by current site
+/personal-assistant-salary-and-compensation.html,/resources/salary-and-compensation/,301 redirect recommended if path changes
+/family-office-staffing-for-the-uhnw.html,/hire-staff/family-office-staffing/,301 redirect recommended if path changes
+/pa-house-manager-for-uhnwi-in-nyc.html,/jobs/pa-house-manager-uhnwi-nyc/,301 redirect recommended if path changes
+/executive-personal-assistant-to-a-celebrity-ceo-in-nyc.html,/jobs/executive-personal-assistant-celebrity-ceo-nyc/,301 redirect recommended if path changes
+/pa-house-manager-for-affluent-family-in-atlanta.html,/jobs/pa-house-manager-affluent-family-atlanta/,301 redirect recommended if path changes
