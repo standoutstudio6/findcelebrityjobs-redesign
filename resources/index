@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Resources | FindCelebrityJobs</title>
+  <meta name="description" content="A luxury content hub built to preserve and reorganize the current site’s extensive topical coverage.">
+  <meta name="theme-color" content="#0d1217">
+  <link rel="canonical" href="https://demo.findcelebrityjobs.com/resources/">
+  <meta property="og:title" content="Resources | FindCelebrityJobs">
+  <meta property="og:description" content="A luxury content hub built to preserve and reorganize the current site’s extensive topical coverage.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://demo.findcelebrityjobs.com/resources/">
+  <meta property="og:image" content="https://demo.findcelebrityjobs.com/assets/img/og-card.svg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Resources | FindCelebrityJobs">
+  <meta name="twitter:description" content="A luxury content hub built to preserve and reorganize the current site’s extensive topical coverage.">
+  <link rel="preload" href="../assets/css/styles.css" as="style">
+  <link rel="stylesheet" href="../assets/css/styles.css">
+  <link rel="icon" href="../assets/img/favicon.svg" type="image/svg+xml">
+  
+  
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div class="site-shell">
+    <header class="site-header" id="top">
+      <div class="container header-bar">
+        <a class="brand" href="../index.html" aria-label="FindCelebrityJobs home">
+          <span class="brand-mark"></span>
+          <span class="brand-text">
+            <strong>FindCelebrityJobs</strong>
+            <small>Luxury staffing & private service</small>
+          </span>
+        </a>
+        <button class="nav-toggle" aria-expanded="false" aria-controls="primary-nav">Menu</button>
+        <nav id="primary-nav" class="primary-nav" aria-label="Primary">
+          <a href="../hire-staff/index.html">Hire Staff</a>
+          <a href="../jobs/index.html">Jobs</a>
+          <a href="../resources/index.html">Resources</a>
+          <a href="../locations/index.html">Locations</a>
+          <a href="../press/index.html">Press</a>
+          <a href="../about/index.html">About</a>
+          <a class="button button-small ghost" href="../contact/index.html">Contact</a>
+        </nav>
+      </div>
+    </header>
+    <main id="main"><nav class="breadcrumbs container" aria-label="Breadcrumb"><ol><li><a href="../index.html">Home</a></li><li>Resources</li></ol></nav><section class="hero section">
+      <div class="container split split-hero">
+        <div>
+          <p class="eyebrow">Resources & guidance</p>
+          <h1>A richer content library, organized for humans and search engines.</h1>
+          <p class="lede">The existing website’s biggest SEO strength is its topical depth. This redesign protects that strength by turning the long A–Z sitemap into a modern library with stronger categorization, search, and internal pathways.</p>
+          <div class="button-row"><a class="button gold" href="content-library/index.html">Open the library</a><a class="button ghost" href="salary-and-compensation/index.html">See salary guidance</a></div>
+          <div class="hero-stats"><div><strong>203+</strong><span>topics preserved from the public sitemap</span></div><div><strong>Human-readable IA</strong><span>clustered by service intent and user need</span></div><div><strong>Faster discovery</strong><span>searchable library + related links</span></div></div>
+        </div>
+        <div class="hero-visual"><div class="orb orb-a"></div><div class="orb orb-b"></div><div class="glass-card"><p>Discretion-led recruitment</p><h3>Luxury staffing, beautifully organized.</h3></div></div>
+      </div>
+    </section><section class="section"><div class="container"><div class="section-heading"><p class="eyebrow">Curated structure</p><h2>Content pillars</h2><p>Instead of one massive alphabetical wall, content is grouped into strategic topic collections.</p></div><div class="card-grid one"><article class="content-card"><h3>Career & Candidate Guidance</h3><p class="meta">Content pillar</p><p>66 preserved topics reorganized into a more navigable luxury content system.</p><a href="content-library/index.html">Explore</a></article><article class="content-card"><h3>Employer & Staffing Strategy</h3><p class="meta">Content pillar</p><p>23 preserved topics reorganized into a more navigable luxury content system.</p><a href="content-library/index.html">Explore</a></article><article class="content-card"><h3>Media, Commentary & Founder Visibility</h3><p class="meta">Content pillar</p><p>7 preserved topics reorganized into a more navigable luxury content system.</p><a href="content-library/index.html">Explore</a></article><article class="content-card"><h3>Specialty Topics & Reference</h3><p class="meta">Content pillar</p><p>76 preserved topics reorganized into a more navigable luxury content system.</p><a href="content-library/index.html">Explore</a></article><article class="content-card"><h3>UHNW Lifestyle & Service Context</h3><p class="meta">Content pillar</p><p>31 preserved topics reorganized into a more navigable luxury content system.</p><a href="content-library/index.html">Explore</a></article></div></div></section><section class="section"><div class="container"><div class="section-heading"><p class="eyebrow">Curated structure</p><h2>Priority content improvements</h2></div><div class="card-grid three"><article class="content-card"><h3>Salary & compensation</h3><p>Compensation guidance is elevated into a featured resource because it is commercially useful, highly searchable, and one of the site’s clearest proof-of-expertise areas.</p><a href="salary-and-compensation/index.html">Explore</a></article><article class="content-card"><h3>Newsletter & job alerts</h3><p>The current newsletter concept stays, but the UX becomes a simple subscription moment rather than an instruction to send an email.</p><a href="newsletter/index.html">Explore</a></article><article class="content-card"><h3>Full content library</h3><p>Every visible sitemap topic from the public site is scaffolded into the redesign package so nothing essential gets lost during modernization.</p><a href="content-library/index.html">Explore</a></article></div></div></section></main>
+    <footer class="site-footer">
+      <div class="container footer-grid">
+        <div>
+          <h3>FindCelebrityJobs</h3>
+          <p>A modern luxury redesign demo based on the current public site structure, repositioned for clarity, elegance, and a stronger premium experience.</p>
+        </div>
+        <div>
+          <h4>Explore</h4>
+          <ul>
+            <li><a href="../hire-staff/index.html">Hire Staff</a></li>
+            <li><a href="../jobs/index.html">Featured Jobs</a></li>
+            <li><a href="../resources/content-library/index.html">Content Library</a></li>
+            <li><a href="../locations/index.html">Global Network</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4>Company</h4>
+          <ul>
+            <li><a href="../about/index.html">Founder</a></li>
+            <li><a href="../mission/index.html">Mission</a></li>
+            <li><a href="../press/index.html">Media & Authority</a></li>
+            <li><a href="../sitemap/index.html">Sitemap</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4>Contact</h4>
+          <ul>
+            <li><a href="tel:+1(424)248-9439">+1 (424) 248-9439</a></li>
+            <li><a href="mailto:info@findcelebrityjobs.com">info@findcelebrityjobs.com</a></li>
+            <li><a href="../contact/index.html">Confidential inquiry</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="container legal-row">
+        <p>Demo package • 2026 • Built to preserve search equity, improve UX, and elevate brand presentation.</p>
+        <a href="#top">Back to top</a>
+      </div>
+    </footer>
+  </div>
+  <script src="../assets/js/site.js" defer></script>
+</body>
+</html>
